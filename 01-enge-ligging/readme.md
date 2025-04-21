@@ -9,12 +9,10 @@ Chords and their first and second inversions are played with right hand, bass - 
 
 The same psalm written for [4 voiced choir:](<./Psalm-140 4st.ly>) soprano, alto, tenor and bass.
 Why settings for 4 voices are interesting? 
-They could easily played on an organ, but one shouldn't play chords and their inversions with right hand, 
-and the bass - with left.
+They could be easily played on an organ, but a musician might - and might not play chords and their inversions with right hand, 
+and the bass - with left as such notation enables more decouplings, for example:
+ - soprano and alto played with right hand on a manual 2;
+ - while the left left hand plays tenor on manual 1;
+ - and the bass is played either with left hand on manual 1 or with bass pedal.
 
-This notation enables more decouplings:
- - soprano and alto with right hand, manual 2;
- - left hand - tenor, manual 1;
- - bass - either lefgt hand, manual 1 or bass pedal.
-
-Also, the voices can be re-arranged so that "cantus firmus" (a tune) is led by tenor, alto or bass.
+Also, the voices can be re-arranged so that any voice is leading a "cantus firmus" (a chant): tenor, alto or bass.
