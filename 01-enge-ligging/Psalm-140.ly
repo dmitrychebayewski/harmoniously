@@ -10,7 +10,7 @@
  title = "Psalm 140"
   subtitle = "manualiter zetting"
   subsubtitle = "in een enge ligging"
-  instrument = "voor organo pleno"
+  instrument = "voor keyboard"
   arranger = "arr. B. Matter"
 }
 

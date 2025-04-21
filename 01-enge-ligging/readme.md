@@ -7,7 +7,7 @@ Chords and their first and second inversions are played with right hand, bass - 
 
 ### Psalm 140 - arrangement for 4 voices
 
-The same psalm written for [4 voiced choir:](./Psalm-140 4st) soprano, alto, tenor and bass.
+The same psalm written for [4 voiced choir:](./Psalm-140 4st.ly) soprano, alto, tenor and bass.
 Why settings for 4 voices are interesting? 
 They could easily played on an organ, but one shouldn't play chords and their inversions with right hand, 
 and the bass - with left.
