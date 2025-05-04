@@ -7,11 +7,14 @@ The "Liedbook" songbook doesn't have choral settings for soprano, alto, tenor an
 
 It is good to know how to apply the right chords properly, and how to trivially improvise over a soprano melody that the "Liedboek" provides.
 
-Fortunately for an organist, the old (Renaissance) music, that Genevan psalms are,
-is fine for interpreting as series of triad chords (C major, G major to mention a few) and their [first and second inversions](https://en.wikipedia.org/wiki/Inversion_(music)#Inverted_chords), played in a proper rhythm and adequate registration.
+Genevan psalms are the old Renaissance tunes.
+Fortunately for an organist, such tunes are fine for interpreting as series of triad chords (C major, G major to mention a few) 
+and their [first and second inversions](https://en.wikipedia.org/wiki/Inversion_(music)#Inverted_chords), played in a proper rhythm.
 
-This repository is intended as collection of settings for Genevan psalms, created with lilypond.
-Please fork the repository and use the sheet music if you find it interesting!
+This repository is intended as collection of settings for Genevan psalms, created with [Lilypond](https://lilypond.org).
+Please fork the repository and use the lilypod files, create your own music, learn to work with Lilypond, share your knowlegde!
+
+Please consider buying the book: "In Goede Harmonie" or "In Guter Harmonie" (German edition).
 
 ## Enge ligging (narrow position)
 Narrow position is one of the methods how to build a chord properly.
