@@ -22,6 +22,10 @@ Chords and their first and second inversions are played with right hand, bass - 
 
 The same psalm written for [4 voiced choir:](<./Psalm-140 4st.ly>) soprano, alto, tenor and bass.
 
+### Psalm 93 - arrangement for 4 voices (choral)
+
+Psalm written for [4 voiced choir:](<./Psalm-93 4st.ly>).
+
 ### Conclusion: Why are settings for 4 voices interesting? 
 They could be easily played on an organ, and are very flexible and versatile, for example:
  - soprano and alto played with right hand on a manual 2 (or vice versa, left hand playing alt and soprano on a manual 2);
