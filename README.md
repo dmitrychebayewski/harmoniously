@@ -26,5 +26,5 @@ so that no space is actually left between soprano, alto and tenor for one more n
 [Go to ->](./01-enge-ligging/readme.md)  
 
 
-[^1]: 1st inversion - the third (the middle) of the triad is the bass note (8 symbol)  
+[^1]: 1st inversion - the third (the middle) of the triad is the bass note (3 symbol)  
 [^2]: 2nd inversion - the fifth (the last) of the chord is the bass note (8 symbol)
