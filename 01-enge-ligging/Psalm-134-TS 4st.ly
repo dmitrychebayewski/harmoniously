@@ -19,7 +19,7 @@ SopranoMusic = \relative c'' {
    \key g \major
   b2-5  b4-5 \override Score.BarLine.stencil = ##f a-8 a4-3 fis-8 e( g2-8 fis4 -3 g2-8) d'\rest
   g,-3  fis4-5 g-8 e-5 e-3 g2-5 g-8 fis-3 d'\rest
-  a-5 fis4-3 g-8 e-5 e-3
+  a-5 fis4-3 g-8 e-5 e-3 g2-8 a-5
   \revert Score.BarLine.stencil
   \bar "||"
 }
@@ -34,13 +34,13 @@ Words = \lyricmode {
 AltoMusic =\relative c' {
   d2 d4 d c b b2 d d g\rest
   e d4 d c c e2 d d g\rest
-  d d4 d c c
+  d d4 d c c g'2 c,
 }
 
 TenorMusic = \relative c' {
   g2-G g4-G fis4-D e4-Am d4-Bm g2-E a2-D b2-G f\rest
   b2-Em b4-Bm b4-G a4-Am g4-C c2-C b2-G a2-D r
-  g2-G a4-D b4-G a4-Am g4-C e2 fis g r
+  g2-G a4-D b4-G a4-Am g4-C e2-C fis g r
   d'2-8 b g a4 c b2 a g1-8
 }
 
@@ -48,8 +48,8 @@ TenorMusic = \relative c' {
 BassMusic =  \relative c {
   \key g \major
   g2 g4 d' a b e2 d g, b\rest
-  e b4 g a c c2 g d' b\rest
-  g d'4 g, a c
+  e b4 g a c c2 g4 (b4) d2 b\rest
+  g d'4 g, a c c (a) fis2
 }
 
 global = {
